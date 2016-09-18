@@ -1,8 +1,8 @@
 # rename this file to config.yaml before start
 
 # qqbot account, not needed anymore for qrcode authentication
-account:  1907566947
-password: "19910806legend"
+account:  qq-number
+password: "login-password"
 
 # server to view verification code, not required for mac
 port: 3100
@@ -22,7 +22,7 @@ plugins:
 api_port:  3200
 api_token: ''
 
-
+# default font style
 font:
   name:微软雅黑
   size:10
